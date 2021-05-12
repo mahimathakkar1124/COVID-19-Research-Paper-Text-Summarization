@@ -5,31 +5,29 @@ Contributors:
  
 
 *Overview*:
-
+With the enlargement of the digitized text, Automatic Text Summarization offers a solution to both better help discover relevant information and to consume relevant information faster. 
 
 
 *Project Goal*:
 
+The aim of the project is to tide over between the researchers and the rapidly growing publications. The work will be potentially aiding overburdened health workers in finding scientific answers during a time of crisis. 
 
 
 *Motivation:*
 
-Automation is progressing in the information technology universe for making it easy for the mankind. Having a dream to work in an automation industry and being a data scientist this project will give me an opportunity to learn how to use image classification with the help of neural networks.
-
-
-
-*Methods Applied*
+In this pandemic, there have been a lot of research papers available by people that cover all the areas such as health, vaccination, impacts of COVID-19 on economy, social and mental state of people.With the COVID-19 pandemic, there is a growing urgency for the medical community to keep up with the accelerating growth in the new coronavirus-related literature.
 
 
 
 *Data Summary:*
+The data is collected from the ["COVID 19 NLP Insight Hub"] (https://www.linguamatics.com/linguamatics-nlp-covid-19-insights-hub) portal that provides links to the Sciencedirect research paper repository. (https://www.sciencedirect.com/articlelist/covid)
+Due to access restrictions to the website, automatic scrapping of the data was denied. Thus the research papers are downloaded manually to form the dataset. 
+These papers cover all the areas that have been impacted due to the COVID-19 pandemic. There are 120 articles present in the dataset with each varying in the number of pages.
 
 
-*Summary of files:*
+Data Access:
 
-Data Source:
-
-["Benchmark German traffic signs"](http://benchmark.ini.rub.de/)
+["COVID-19 Research Papers"](https://drive.google.com/drive/folders/1BQjhKhmnojDSv80KdobmIbq1LbVE7q3A?usp=sharing)
 
 Notebooks:
 
