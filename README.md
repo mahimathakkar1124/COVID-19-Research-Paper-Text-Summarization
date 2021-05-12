@@ -32,26 +32,31 @@ Data Access:
 
 Notebooks:
 
-["EDA"](https://github.com/Rushabh771995/Traffic_Sign_Detection/blob/main/Notebooks/EDA.ipynb)
+["Exploratory Data Analysis"](https://github.com/mahimathakkar1124/COVID-19-Research-Paper-Text-Summarization/blob/main/Data606_EDA.ipynb)
 
-["Technical Notebook (Traffic sign detection)"](https://github.com/Rushabh771995/Traffic_Sign_Detection/blob/main/Notebooks/Traffic_Sign_Detection_Technical_Notebook.ipynb)
-           
-Images:
+["UI Demo"](https://github.com/mahimathakkar1124/COVID-19-Research-Paper-Text-Summarization/blob/main/Data606_UIDemo.ipynb) This notebook shows the UI part of the project. People can select a paper from list of papers avilable. 
 
-["Images"](https://github.com/Rushabh771995/Traffic_Sign_Detection/tree/main/images)
+["Single Test Notebook"](https://github.com/mahimathakkar1124/COVID-19-Research-Paper-Text-Summarization/blob/main/Data606_SingleTest.ipynb)
 
+["Extractive Summarization"](https://github.com/mahimathakkar1124/COVID-19-Research-Paper-Text-Summarization/blob/main/Data606_Extractive_Summarization.ipynb) This notebook has the algorithms and output for Extractive Summarization.
+
+["Abstractive Summariation"](https://github.com/mahimathakkar1124/COVID-19-Research-Paper-Text-Summarization/blob/main/Data_606_Abstractive_Summarization.ipynb) This notebook has the algorithms and output for Abstractive Summarization.
+
+*Conclusion*:
+
+When a large language model is trained on a sufficiently large and diverse dataset it is able to perform well across many domains and datasets. In this project, pre-trained models are used to achieve the desired goal of the projects. The extractive pre-trained models are computationally cheaper than the abstractive pre-trained models. Extractive summaries consist of text cropped from original data. On the contrary, abstractive summaries are paraphrased summaries obtained by using state-of-art models. The model that gives out the best summary for Extractive Summarization is BERT-Summarizer. The model that gives out the best summary for Abstractive Summarization is GPT2 (by OpenAI)
+
+["Presentation"](https://www.youtube.com/watch?v=Qbxn7Fv6AwU)
 
 
 *Softwares and Packages:*
 
 Project Info:
 
-Contributors: Rushabh Shah.
+Contributors: Mahima Thakkar.
 
 Languages: Python.
 
-Tools/IDE: Colab
+Tools/IDE: Google Colaboratory
 
-Libraries: pandas, matplotlib, scipy==1.1.0, wget, opencv, tensorflow, keras, seaborn, os, imread, randomizer.
-
-Duration: December 2020.
+Duration: Spring 2021.
