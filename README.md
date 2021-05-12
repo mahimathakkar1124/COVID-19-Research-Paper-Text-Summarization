@@ -20,7 +20,8 @@ In this pandemic, there have been a lot of research papers available by people t
 
 
 *Data Summary:*
-The data is collected from the [COVID 19 NLP Insight Hub] (https://www.linguamatics.com/linguamatics-nlp-covid-19-insights-hub) portal that provides links to the Sciencedirect research paper repository. (https://www.sciencedirect.com/articlelist/covid)
+
+The data is collected from the [COVID 19 NLP Insight Hub](https://www.linguamatics.com/linguamatics-nlp-covid-19-insights-hub) portal that provides links to the Sciencedirect research paper repository. (https://www.sciencedirect.com/articlelist/covid)
 Due to access restrictions to the website, automatic scrapping of the data was denied. Thus the research papers are downloaded manually to form the dataset. 
 These papers cover all the areas that have been impacted due to the COVID-19 pandemic. There are 120 articles present in the dataset with each varying in the number of pages.
 
